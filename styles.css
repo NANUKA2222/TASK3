@@ -1,0 +1,60 @@
+h1{
+
+    color:pink;
+    background-color: yellow;
+}
+
+table,th,td{
+    
+    
+    
+    
+    border-style: solid;
+color: black;
+
+
+
+
+}
+.nika{
+
+
+    color:black ;
+    background-color: orange;
+    border-style: dashed;
+}
+.kaxa{
+
+
+   color: black;
+   background-color: lightcoral;
+   border-style: solid;
+}
+.gio{
+
+    color: black;
+    background-color: teal;
+border-style: dashed;}
+    
+
+.name{
+
+
+
+     color: black;
+     background-color: skyblue;
+     border-style: solid;
+}
+
+table {
+border-color: black;
+}
+
+
+
+image {
+
+    width: 400px,
+    height: 300px
+
+}
